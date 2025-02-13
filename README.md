@@ -1,6 +1,6 @@
 # ige_deep_emulators
 
-To test and run this repository, you will need to create a virtual environment - write the following steps in a terminal:
+To test and run this repository, you will need to create a virtual environment. Write the following steps in a terminal:
 
 ```
 python -m venv tunax_env
@@ -9,4 +9,4 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name tunax_env
 ```
 
-You will also need to create a folder "data" to store the various data and results obtained after running the notebooks.
+You will also need to create a "data" folder to store the results obtained with the notebooks.
