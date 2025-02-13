@@ -1,4 +1,4 @@
-# ige_deep_emulators
+# Deep Conditional Emulators
 
 To test and run this repository, you will need to create a virtual environment. Write the following steps in a terminal:
 
