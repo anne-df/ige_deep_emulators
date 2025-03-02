@@ -17,6 +17,7 @@ tunax_env/
 checkpoints_noise/
 checkpoints_reg/
 checkpoints/
+data/
 
 # Distribution / packaging
 .Python
