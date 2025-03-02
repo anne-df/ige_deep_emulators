@@ -9,4 +9,4 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name tunax_env
 ```
 
-You will also need to create a "data" folder to store the results obtained with the notebooks.
+You will also need to create "data" and "plots" folders to store the results obtained with the notebooks.
